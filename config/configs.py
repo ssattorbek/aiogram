@@ -1,0 +1,3 @@
+API_URL = 'http://127.0.0.1:8081'
+API_TOKEN = '7234533522:AAE1tN7O5cipM5cjDxgafVTTtBikle6PVgY'
+
